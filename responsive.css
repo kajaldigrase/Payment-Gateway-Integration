@@ -1,0 +1,21 @@
+@media only screen and (max-width: 800px){
+*{
+    margin: 0;
+    padding: 0;
+}
+#home{
+    margin: 0px;
+    padding: 0px;
+}
+
+.card{
+    margin: 50px;
+}
+.donation{
+    padding: 6px;
+    margin: 26px;
+}
+.fw-normal h1{
+    font-size: 2rem;
+}
+}
